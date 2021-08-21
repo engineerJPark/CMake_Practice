@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/OLAS.dir/main.cpp.o -o OLAS   -L/home/jshackist/practice_cmake/Adder  -Wl,-rpath,/home/jshackist/practice_cmake/Adder Adder/libadder.a 
